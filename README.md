@@ -1,4 +1,4 @@
-# city-rent-estimator  City Rent & Living Cost Estimator
+# City Rent & Living Cost Estimator
 
 A comprehensive web application that helps students, job seekers, and working professionals estimate total living costs in different areas using AI-powered insights and machine learning.
 
